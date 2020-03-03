@@ -1,0 +1,3 @@
+# The-Shootout
+The shootout game is an OOP based game in which a few agents (players) are placed on a map with different types of weapons and armors. In the beginning, agents select a weapon (different weapons have different 
+advantages/disadvantages, for example: higher shooting range, higher/lower damage etc). The agents are placed randomly on the map. The agents have the possibility in a turn to move, attack or avoid the attack from another player within their visibility range. The armors are placed on the map so any of the players can get one. The game is a last standing type so it ends when there's only one player alive. 
